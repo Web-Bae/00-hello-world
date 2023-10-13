@@ -1,5 +1,4 @@
 function greet() {
-  // Your Code Here
   // input: none
   // output: returns the string "Hello World!"
   return "Hello World!";
