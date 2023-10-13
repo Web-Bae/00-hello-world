@@ -6,7 +6,6 @@ function greet() {
 }
 
 function logWhatsUp() {
-  // Your Code Here
   // input: none
   // output: none
   // side effect: logs the string "What's up?" to the console
