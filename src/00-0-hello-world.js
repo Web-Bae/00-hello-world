@@ -1,7 +1,7 @@
 function greet() {
   // input: none
   // output: returns the string "Hello World!"
-  return "Hello, World!";
+  return "Hello World!";
 }
 
 function logWhatsUp() {
