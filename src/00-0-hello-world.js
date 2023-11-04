@@ -2,7 +2,7 @@ function greet() {
   // Your Code Here
   // input: none
   // output: returns the string "Hello, World!"
-  return 'Hello, New World!';
+  return 'Hello, World!';
 }
 
 function logWhatsUp() {
